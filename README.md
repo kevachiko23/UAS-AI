@@ -1,4 +1,8 @@
-# Jenis Kelamin
+# UAS_AI
+
+# NAMA : KEVIN GLENANDA ADITIYA
+
+# NIM : 171011401384
 
 
 Memprediksi jenis kelamin dari nama bahasa Indonesia menggunakan Metode Random Forest Classifier dan Machine Learning.
@@ -19,7 +23,7 @@ Tampilan dataset, teridiri dari 13.137 nama
 Metode klasifikasi yang digunakan adalah Logistic Regression, Naive Bayes dan Random Forest Tree dengan bantuan library Python [Scikit Learn](http://scikit-learn.org).  
 
 ### Setup program
-1. Clone repository ini `https://github.com/kevachiko23/UAS-AI`
+1. Clone repository ini https://github.com/kevachiko23/UAS-AI.git`
 2. Masuk ke direktori project `cd Jenis-Kelamin`
 3. Buat Python virtual environment `python3 -m venv venv`
 4. Aktifkan virtual environment `source venv/bin/activate`
