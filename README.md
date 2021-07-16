@@ -19,7 +19,7 @@ Tampilan dataset, teridiri dari 13.137 nama
 Metode klasifikasi yang digunakan adalah Logistic Regression, Naive Bayes dan Random Forest Tree dengan bantuan library Python [Scikit Learn](http://scikit-learn.org).  
 
 ### Setup program
-1. Clone repository ini `git clone git@github.com:irfani/Jenis-Kelamin.git`
+1. Clone repository ini `https://github.com/kevachiko23/UAS-AI`
 2. Masuk ke direktori project `cd Jenis-Kelamin`
 3. Buat Python virtual environment `python3 -m venv venv`
 4. Aktifkan virtual environment `source venv/bin/activate`
