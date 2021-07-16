@@ -4,7 +4,7 @@ NAMA  : KEVIN GLENANDA ADITIYA
 
 NIM   : 171011401384
 
-Memprediksi jenis kelamin dari nama bahasa Indonesia menggunakan Metode random forest classifer.
+Memprediksi jenis kelamin dari nama bahasa Indonesia menggunakan Metode random forest classifer dan Machine learning.
 
 Data set yang digunakan berasal dari data pemilih tetap Komisi Pemilihan Umum (KPU) yang bisa didapat disini. Saya telah menyiapkan data set yang telah di scrape dalam bentuk csv, terdiri dari 2 kolom, nama dan jenis kelamin disini.
 
