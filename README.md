@@ -1,7 +1,7 @@
 # Jenis Kelamin
 
 
-Memprediksi jenis kelamin dari nama bahasa Indonesia menggunakan Machine Learning.
+Memprediksi jenis kelamin dari nama bahasa Indonesia menggunakan Metode Random Forest Classifier dan Machine Learning.
 
 Data set yang digunakan berasal dari data pemilih tetap Komisi Pemilihan Umum (KPU) yang bisa didapat [disini](https://pilkada2017.kpu.go.id/pemilih/dps/DKI%20JAKARTA). Saya telah menyiapkan data set yang telah di scrape dalam bentuk csv, terdiri dari 2 kolom, nama dan jenis kelamin [disini](./data/data-pemilih-kpu.csv).
 
@@ -44,22 +44,22 @@ optional arguments:
                         Training ulang dengan dataset yang ditentukan
 ```
 
-Tebak jenis kelamin irfani ? 
+Tebak jenis kelamin kevin ? 
 ```bash
-python jenis-kelamin.py irfani
+python jenis-kelamin.py kevin
 Prediksi jenis kelamin dengan Naive Bayes :
-irfani  :  Pria
+kevin  :  Pria
 ```
 
 Menjalankan program dengan metode Logistic Regression dan dataset yg ditentukan ulang
 ```bash
-python jenis-kelamin.py -t "./data/data-pemilih-kpu.csv" -ml LG "niky felina"
+python jenis-kelamin.py -t "./data/data-pemilih-kpu.csv" -ml LG "mawar melati"
 Akurasi : 93.5135135135 %
 Prediksi jenis kelamin dengan Logistic Regression :
-niky felina  :  Wanita
+mawar melati  :  Wanita
 ```
 
 Untuk mengubah prediksi nama dari nama bahasa negara lain atau bahasa daerah tertentu, dataset nya silahkan diganti sesuai kebutuhan
 
-author: [@irfani](http://irfani.web.id)
+
 
