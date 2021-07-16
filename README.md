@@ -1,6 +1,7 @@
 UAS AI
 
 NAMA  : KEVIN GLENANDA ADITIYA
+
 NIM   : 171011401384
 
 Memprediksi jenis kelamin dari nama bahasa Indonesia menggunakan Machine Learning.
